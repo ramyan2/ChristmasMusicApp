@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="All I Want for Christmas Is You" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LEt it snow" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:text="Drummer boy" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="have yourself a merry little christmas" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:text="mistletoe" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:text="Santa claus is coming to town" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="santa tell me" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Last christmas" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="winter wonderland" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="wonderful christmas time" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:onClick="browser1"
+        android:text="DAYS TILL CHRISTMAS" />
+
+</LinearLayout>
